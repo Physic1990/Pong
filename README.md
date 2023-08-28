@@ -31,24 +31,27 @@ Before you begin, make sure you have the following prerequisites installed on yo
    ```sh
    git clone https://github.com/Physic1990/Pong
 
-   ## Open the project in Unity:
+## Open the project in Unity:
 
-Open Unity Hub.
-Click the "Add" button and browse to the cloned repository's folder.
-Select the Unity project folder (the one containing the Assets, ProjectSettings, etc. folders) and click the "Select Folder" button.
-Select the appropriate Unity version:
+1. Open Unity Hub.
+2. Click the "Add" button and browse to the cloned repository's folder.
+3. Select the Unity project folder (the one containing the Assets, ProjectSettings, etc. folders) and click the "Select Folder" button.
 
-In Unity Hub, go to the "Projects" tab.
-Click on the project and then click the "Three dots" button (options).
-Choose "Add Version" and select the Unity version [X.Y.Z] you installed earlier.
-Install necessary packages:
+## Select the appropriate Unity version:
 
-Open the project in Unity.
-Go to "Window" > "Package Manager."
-Install any required packages or dependencies listed in the project documentation.
-Configure project settings:
+1. In Unity Hub, go to the "Projects" tab.
+2. Click on the project and then click the "Three dots" button (options).
+3. Choose "Add Version" and select the Unity version [X.Y.Z] you installed earlier.
 
-Check the project's documentation for any specific configuration instructions.
-Ready to work:
+## Install necessary packages:
 
+1. Open the project in Unity.
+2. Go to "Window" > "Package Manager."
+3. Install any required packages or dependencies listed in the project documentation.
+
+## Configure project settings:
+
+- Check the project's documentation for any specific configuration instructions.
+
+## Ready to work:
 You're all set! You can now start working on the project in Unity.
