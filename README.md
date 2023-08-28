@@ -55,3 +55,12 @@ Before you begin, make sure you have the following prerequisites installed on yo
 
 ## Ready to work:
 You're all set! You can now start working on the project in Unity.
+
+## Working pictures
+
+![Screenshot 2023-08-27 232405](https://github.com/Physic1990/Pong/assets/93368036/c4b2c71d-9563-4c9a-975b-94667bd7e0d5)
+![Screenshot 2023-08-27 232029](https://github.com/Physic1990/Pong/assets/93368036/dc6249d0-f0b5-432c-99f3-f002e55886b4)
+
+## Working Video
+
+
