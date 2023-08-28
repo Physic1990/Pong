@@ -64,3 +64,10 @@ You're all set! You can now start working on the project in Unity.
 ## Working Video
 
 
+
+https://github.com/Physic1990/Pong/assets/93368036/e07b6237-26b6-4754-bf4e-b7dd807c0da0
+
+
+![Untitled_Project_V2](https://github.com/Physic1990/Pong/assets/93368036/6bd94d81-d48a-4c25-b09d-5f1470cf8079)
+
+
